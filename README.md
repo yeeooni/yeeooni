@@ -1,5 +1,7 @@
 ### Hi there 👋
 ### Nice to meet you.
+
+### 안녕 👋
 ### 만나서 반가워.
 <!--
 **yeeooni/yeeooni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimiyeon89)](https://solved.ac/kimiyeon89/)
