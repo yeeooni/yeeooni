@@ -4,9 +4,6 @@
 ### Hi there 👋
 ##### Nice to meet you.
 
-### 안녕 👋
-##### 만나서 반가워.
-
 <!--
 **yeeooni/yeeooni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
