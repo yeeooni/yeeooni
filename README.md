@@ -1,4 +1,8 @@
+<p align="center">
+  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimiyeon89)](https://solved.ac/kimiyeon89/)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeooni&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide=''" />
+</p>
 
 ---
 ### Hi there 👋
