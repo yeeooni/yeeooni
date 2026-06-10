@@ -14,7 +14,8 @@
               <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimiyeon89" alt="Profile Badge" width="100%" style="border-radius: 15px;"/>
             </td>
             <td style="width: 400px; padding: 10px;">
-              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeooni&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=&hide=&exclude_repo=tensorflow" alt="Most Used Languages" width="100%" style="border-radius: 15px;"/>
+                https://github-readme-stats.vercel.app/api/top-langs/?username=yeooni&stats_format=bytes&layout=compact
+              <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeeooni&layout=compact&show_icons=true&show_owner=true&exclude_repo=tensorflow" alt="Most Used Languages" width="100%" style="border-radius: 15px;"/>
             </td>
           </tr>
     </tbody>
